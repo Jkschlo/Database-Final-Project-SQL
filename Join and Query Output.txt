@@ -1,0 +1,53 @@
+1|1|4|1|4|1|Bulbasaur|45|49|49|45
+7|1|3|1|3|2|Squirtle|44|48|65|43
+4|1|2|1|2|3|Charmander|39|52|43|65
+25|1|1|1|1|4|Pikachu|35|55|40|90
+ 
+1|Poke Ball
+2|Great Ball
+3|Ultra Ball
+4|Master Ball
+ 
+1|1|Kanto
+2|2|Johto
+3|3|Hoenn
+4|4|Sinnoh
+ 
+1|Normal
+2|Fire
+3|Water
+4|Grass
+ 
+1|Tackle|Normal|40|100
+2|Ember|Fire|40|100
+3|Water Gun|Water|40|100
+4|Razor Leaf|Grass|55|95
+ 
+1|1|Misty|1|Female
+2|4|Brock|3|Male
+3|7|Erika|4|Female
+4|25|Sabrina|6|Female
+ 
+1|1
+2|4
+3|7
+4|25
+ 
+1|4
+7|3
+4|2
+25|1
+ 
+Bulbasaur|Misty
+Squirtle|Brock
+Charmander|Erika
+Pikachu|Sabrina
+ 
+Misty|1
+Brock|4
+Erika|7
+Sabrina|25
+ 
+Erika
+ 
+Erika|Squirtle|Water
